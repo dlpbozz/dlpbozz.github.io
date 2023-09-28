@@ -78,7 +78,21 @@
 .github:hover {
   background-color: black;
 }
+.instagram:hover {
+  background-color: red;
+}
 
+.instagram {
+  color:black
+}
+
+.twitter {
+color:#0077b5
+}
+
+.twitter:hover {
+  background-color: #0077b5;
+}
 /* Buttons - Read Me, Contact Us */
 
 .readme {
